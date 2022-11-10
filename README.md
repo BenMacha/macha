@@ -13,8 +13,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=BenMacha&count_private=true&show_icons=true&include_all_commits=true" /> 
 
-<img src="https://raw.githubusercontent.com/BenMacha/macha/edit/master/profile-3d-contrib/profile-green-animate.svg" />
+<img src="https://raw.githubusercontent.com/BenMacha/macha/master/profile-3d-contrib/profile-green-animate.svg" />
 
-![](https://steam-stat.vercel.app/api?profileName=_Louis)
-
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=louislamlam)](https://www.last.fm/user/louislamlam)
